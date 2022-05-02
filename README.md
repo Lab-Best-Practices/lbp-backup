@@ -6,6 +6,8 @@ NeverInstall https://neverinstall.com
 
 Ninite https://ninite.com
 
+https://isapplesiliconready.com
+
 ## Gõ tiếng Việt
 
 - EVkey official https://evkeyvn.com
