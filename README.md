@@ -8,9 +8,8 @@ Ninite https://ninite.com
 
 ## Gõ tiếng Việt
 
-EVkey official https://evkeyvn.com
-
-Unikey officical https://www.unikey.org
+- EVkey official https://evkeyvn.com
+- Unikey officical https://www.unikey.org
 
 ## Transalate
 
@@ -20,9 +19,9 @@ Google Translate https://translate.google.com
 
 ## Browsers
 
-- Google Chrome
-- Microsoft Edge
-- Firefox
+- Google Chrome ✅
+- Microsoft Edge ✅
+- Firefox ✅
 - Opera
 - Cốc cốc
 - Brave
@@ -47,7 +46,7 @@ Azure DevOps
 
 => https://www.similarweb.com/top-websites/category/arts-and-entertainment/music/
 
-- Spotify
+- Spotify ✅
 - Soundcloud
 - https://zingmp3.vn
 - https://www.nhaccuatui.com
