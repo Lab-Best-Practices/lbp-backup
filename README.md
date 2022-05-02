@@ -28,3 +28,10 @@ Google Translate https://translate.google.com
 - Brave
 ...
 
+### Extension for browsers
+
+### Profiles
+
+Bạn có thể tạo mỗi profile trong Trình duyệt cho nhiều mục đích khác nhau.
+
+## ...updating...
